@@ -1,7 +1,8 @@
 import sqlite3
 import sys
-from PyQt5.QtWidgets import QMainWindow, QApplication, QTableWidgetItem
+
 from PyQt5 import uic
+from PyQt5.QtWidgets import QApplication, QMainWindow, QTableWidgetItem
 
 
 class EspressoWindow(QMainWindow):
